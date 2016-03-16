@@ -24,9 +24,7 @@
   "homepage": "",
   "ignore": [
     ".*",
-    "assets/*",
     "docs.css",
-    "index.html",
     "font/"
   ]
 }
